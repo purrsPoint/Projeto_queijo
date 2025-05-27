@@ -34,7 +34,7 @@
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Próximo></a>
+                            <a class="nav-link" href="pagina2.php">Próximo></a>
                         </li>
 
                     </ul>
