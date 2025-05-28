@@ -29,7 +29,7 @@
                     <ul class="navbar-nav">
 
                         <li class="nav-item">
-                            <a class="nav-link" href="index.php">
+                            <a class="nav-link" href="pagina2.php">
                                 < Anterior</a>
                         </li>
 
@@ -47,32 +47,38 @@
     <div class="conteudo">
 
         <div class="bloco">
-        <h2 class="texto-card"><p class="titulo">Mas como surgiu o queijo?</p>
-        A história do queijo é antiga e incerta, mas acredita-se que tenha surgido há cerca de 5000 anos, provavelmente na Ásia Central e no Oriente Médio. A descoberta foi feita acidentalmente, quando o leite era guardado em bolsas de couro de estômago de animais para transporte, e a enzima natural do estômago causava a coagulação do leite, formando a coalhada. 
-         </h2>
-        
-            <img src="images/pagina2_1.jpg" class="foto">
+            <h2 class="texto-card">
+                <p class="titulo">Queijo Gouda</p>
+                O gouda é um dos queijos mais consumidos no mundo. As primeiras menções a ele remontam a 1184, o que faz desse queijo um dos mais antigos da história.
+            </h2>
 
-        <h2 class="texto-card">
-        Ao longo do tempo, diferentes regiões do mundo desenvolveram suas próprias técnicas de produção de queijo, resultando em uma grande variedade de tipos e sabores. Os queijos eram frequentemente produzidos como uma maneira de preservar o leite por períodos mais longos, já que o queijo maturado tem uma durabilidade muito maior que o leite in natura.
-        </h2>    
+            <img src="images/pagina4_1.jpeg" class="foto">
 
-    </div>
+            <h2 class="texto-card">
+            Seu nome deve-se à cidade de mesmo nome, onde, desde a Idade Média, já era comercializado. Há também fontes que sugerem que o termo gouda se refira a uma forma específica de produção de queijos e não a um tipo particular, considerando seu sabor, que varia com a idade.
+            </h2>
+            
+            <img src="images/pagina4_2.jpeg" class="foto">
+            
+            <h2 class="texto-card">
+            O jovem e menos maturado (e produzido na fábrica) tem um sabor levemente adocicado com toque de nozes e bastante suave. Por sua vez, o gouda mais maturado desperta outras sensações, pois o tempo lhe imprime tons mais frutados e uma leve doçura no final, quase um sabor de caramelo quando maturado por mais de dois anos.
+            </h2>
+        </div>
 
     </div>
     <footer class="rodape">
-    <h6 class="texto-rodape">
-        Desenvolvido por Felipe Leonardo<br>
-        Direitos mais ou menos resenvados &copy; 2025
-    </h6>
+        <h6 class="texto-rodape">
+            Desenvolvido por Felipe Leonardo<br>
+            Direitos mais ou menos resenvados &copy; 2025
+        </h6>
     </footer>
 
 
 
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js"
-     integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO"
-        crossorigin="anonymous"></script>
+        integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO" crossorigin="anonymous">
+    </script>
 </body>
 
 </html>

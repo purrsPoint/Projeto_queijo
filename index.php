@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Wiki'n Cheese</title>
 
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/styles.css">
     <link rel="icon" type="images/x-icon" href="images/Queijo_logo.png">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-4Q6Gf2aSP4eDXB8Miphtr37CMZZQ5oXLH2yaXMJ2w8e2ZtHTl7GptT4jmndRuHDT" crossorigin="anonymous">
@@ -47,7 +47,7 @@
     <div class="conteudo">
 
         <div class="bloco">
-        <h2 class="texto-card"><p class="titulo">Bem-vindo à Wiki n' Cheese</p> um espaço dedicado aos amantes de queijo! Aqui você vai descobrir os mais diversos tipos de queijos, suas origens, características e curiosidades que fazem de cada um uma experiência única. Prepare-se para uma viagem pelos sabores e texturas que encantam paladares ao redor do mundo
+        <h2 class="texto-card"><p class="titulo"><strong>Bem-vindo à Wiki n' Cheese</p></strong> um espaço dedicado aos amantes de queijo! Aqui você vai descobrir os mais diversos tipos de queijos, suas origens, características e curiosidades que fazem de cada um uma experiência única.
         </h2>
         
 
