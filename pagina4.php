@@ -47,20 +47,24 @@
     <div class="conteudo">
 
         <div class="bloco">
+            <div class="cima">
             <h2 class="texto-card">
                 <p class="titulo">Queijo Gouda</p>
                 O gouda é um dos queijos mais consumidos no mundo. As primeiras menções a ele remontam a 1184, o que faz desse queijo um dos mais antigos da história.
             </h2>
 
             <img src="images/pagina4_1.jpg" class="foto">
+</div>
 
+<div class="cima">
+     <img src="images/pagina4_2.jpg" class="foto">
             <h2 class="texto-card">
             Seu nome deve-se à cidade de mesmo nome, onde, desde a Idade Média, já era comercializado. Há também fontes que sugerem que o termo gouda se refira a uma forma específica de produção de queijos e não a um tipo particular, considerando seu sabor, que varia com a idade.
             </h2>
             
-            <img src="images/pagina4_2.jpg" class="foto">
-            
-            <h2 class="texto-card">
+           
+</div>
+            <h2 class="texto-card_2">
             O jovem e menos maturado (e produzido na fábrica) tem um sabor levemente adocicado com toque de nozes e bastante suave. Por sua vez, o gouda mais maturado desperta outras sensações, pois o tempo lhe imprime tons mais frutados e uma leve doçura no final, quase um sabor de caramelo quando maturado por mais de dois anos.
             </h2>
         </div>

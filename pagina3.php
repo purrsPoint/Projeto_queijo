@@ -47,10 +47,10 @@
     <div class="conteudo">
 
         <div class="bloco">
-     
+     <div class="cima">
             <h2 class="texto-card">
                 <p class="titulo">Queijo cheddar</p>
-                <div class="cima">
+           
                 Bem, diferente do que se é popular o queijo cheddar laranja vendido em super mercados e nas
                 hamburguerias não
                 é o queijo cheddar de verdade, É discutível até se pode ser chamado de queijo, pois é uma junção, uma
@@ -59,28 +59,33 @@
             </h2>
 
             <img src="images/pagina3_1.png" class="foto">
-        </div>
+     </div>
 
 
+     <div class="cima">
+        <img src="images/pagina3_2.png" class="foto">
             <h2 class="texto-card">
             O verdadeiro cheddar é o da Inglaterra, o inglês, e não é alaranjado dessa forma, ou obrigatoriamente, e tem um gosto totalmente diferente. Criado por Joseph Harding a 
             mais ou menos onze séculos atrás, o nome do queijo é inspirado em seu local de nascimento, a Vila Cheddar, na região de Somerset. <br>
             Não se sabe bem o que motivou a sua criação, qual foi à circunstância exata que o fez ganhar vida, especula-se que tenha surgido como forma de se aproveitar o leite excedente.
             <br>
+            
+            
+    </div>
+
+
+            <h2 class="texto-card_2">
             Mas afinal de contos como é o cheddar verdadeiro?
             <br>
             Ele é é redondo, forma de tambor com pelo menos 15 cm de diâmetro. Sua textura é quebradiça, quando jovem, e é bem curado.
             A cor remete a um amarelo pálido que pode ficar mais acentuado, lembrando o queijo cheddar fake alaranjado, mas isso depende muito do tempo de maturação, o tipo de vaca, a região em que foi produzido, etc.   
-            </h2>
-            
-            <img src="images/pagina3_2.png" class="foto">
-            
-            <h2 class="texto-card">
+        
             O queijo com coloração mais forte tem gosto mais acentuado. Independente da tonalidade que esteja, sua massa é dura, mas curiosamente o queijo derrete com facilidade na boca.
             O gosto do queijo cheddar é suave e pode ter notas aromáticas de maçã, nozes e café torrado.
             </h2>
+</div>
         
-    </div>
+ </div>
     <footer class="rodape">
         <h6 class="texto-rodape">
             Desenvolvido por Felipe Leonardo<br>
