@@ -47,6 +47,7 @@
     <div class="conteudo">
 
         <div class="bloco">
+            <div class="cima">
             <h2 class="texto-card">
                 <p class="titulo">Queijo Gruyère</p>
                 Nomeado em homenagem à cidade de Gruyères , na Suíça, o Gruyère faz parte de uma família de "queijos montanhêses" produzidos nos Alpes.
@@ -54,7 +55,8 @@
              </h2>
 
             <img src="images/pagina7_1.png" class="foto">
-
+</div>
+<div class="cima">
             <h2 class="texto-card">
             Produtores de ambos os lados da fronteira entre a França e a Suíça rotulavam seus queijos como "Gruyère" até 1986, quando o "Gruyère de Comté" francês passou a ser simplesmente Comté. (Até hoje, muitos produtores suíços rotulam seus queijos como "Le Gruyère" — o Gruyère.) O queijo suíço recebeu o status de Denominação de Origem Protegida (AOP) em 2010.
             <br>
@@ -62,8 +64,8 @@
             </h2>
             
             <img src="images/pagina7_2.png" class="foto">
-
-            <h2 class="texto-card">
+</div>
+            <h2 class="texto-card_2">
             O queijo Gruyère tem um sabor levemente amendoado e uma textura cremosa. Como muitos queijos semi-firmes, o Gruyère tem um sabor mais suave e herbáceo quando jovem e um sabor mais acentuado após a maturação. O sabor do queijo Gruyère jovem lembra o capim que as vacas comem. Além do sabor suave, o queijo mais jovem derrete mais facilmente, tornando-o uma escolha melhor para cozinhar. Use o queijo mais velho e duro para tábuas de queijos.
             </h2>
             

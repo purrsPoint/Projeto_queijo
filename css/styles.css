@@ -40,7 +40,7 @@
 .conteudo{
     background-color: #eae2b765;
     padding: 20px;
-    padding-bottom: 5%;
+    padding-bottom: 30%;
 }
 .bloco{
     background-color: #faf9f6;
@@ -55,7 +55,7 @@
 }
 .cima{
     display: flex;
-    margin: auto;
+    margin-top: 10px;
 }
 .texto-card{
     width: 30%;
@@ -85,7 +85,9 @@
 }
 .texto-card_2{
     width: 90%;
-    margin:auto;
+    margin-top:10px;
+    margin-left: auto;
+    margin-right: auto;
     text-align: justify;
     font-family: Raleway;
     font-size: x-large;
@@ -103,7 +105,10 @@
     margin: auto;
     text-align: center;
     font-family: Raleway;
-    font-size: x-large;
+    font-size: large;
+}
+.texto-card_2{
+    font-size: large;
 }
 .foto{
     width: 80%;
@@ -112,4 +117,5 @@
     margin: auto;
 
 }
+
 }

@@ -47,6 +47,9 @@
     <div class="conteudo">
 
         <div class="bloco">
+
+        <div class="cima">
+                <img src="images/pagina6_1.jpg" class="foto">
             <h2 class="texto-card">
                 <p class="titulo">Queijo Parmesão</p>
                 O queijo parmesão é de origem italiana e, devido a sua enorme popularidade, ficou conhecido também como “o rei dos queijos”.
@@ -56,19 +59,19 @@
 
 
              </h2>
-
-            <img src="images/pagina6_1.jpg" class="foto">
-
+</div>
+        
+    <div class="cima">
             <h2 class="texto-card">
             Todos os diferentes tipos de parmesão derivam dessa versão inicial. No entanto, o nome parmigiano reggiano só pode ser usado para o queijo produzido nessa área do norte da Itália, já que recebeu o certificado de Denominação de Origem Protegida. 
-            Por isso, a versão original sempre tem a indicação na embalagem. Todas as opções com designação de queijo parmesão foram produzidas semelhantemente, mas em outros locais do mundo. 
             <br>
             O queijo parmesão original é feito com leite de vaca cru parcialmente desnatado, normalmente com o produto das vacas Holstein-Friesian, sal e coalhada. Esse é o caso do parmigiano reggiano, sendo que não são adicionados aditivos nem conservantes. Já os outros tipos podem ser fabricados com o leite integral ou pasteurizado
             </h2>
             
             <img src="images/pagina6_2.png" class="foto">
+    </div>
 
-            <h2 class="texto-card">
+            <h2 class="texto-card_2">
             As características do queijo parmesão são massa compacta, dura e consistente. A textura é arenosa, sendo quebradiça ao cortar. A coloração é amarelada e sua crosta é dura, grossa, lisa e seca, de cor amarelo-palha. O sabor é levemente adocicado combinado a certa picância e a notas de castanhas. 
             </h2>
             

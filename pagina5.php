@@ -47,23 +47,36 @@
     <div class="conteudo">
 
         <div class="bloco">
-            <h2 class="texto-card">
-                <p class="titulo">Queijo Gorgonzola</p>
-                O queijo gorgonzola nasceu na cidade de Gorgonzola, na Itália. Sobre como surgiu exatamente, não existem documentos. Aproximadamente data o século 10.<br>
-                
-             </h2>
+            <div class="cima">
+                <h2 class="texto-card">
+                    <p class="titulo">Queijo Gorgonzola</p>
+                    O queijo gorgonzola nasceu na cidade de Gorgonzola, na Itália. Sobre como surgiu exatamente, não
+                    existem documentos. Aproximadamente data o século 10.<br>
 
-            <img src="images/pagina5_1.jpg" class="foto">
+                </h2>
 
-            <h2 class="texto-card">
-            Oque se conta é que um queijeiro estava tão apaixonado por uma gorgonzolense que, ao correr atrás dela, se esqueceu de fazer o queijo strachino. Após deixar uma quantidade de leite azedar, ele misturou com outra porção de leite fresco ainda quente, para que seu patrão não percebesse.
-            A mistura dos leites em diferentes temperaturas e aspectos formou uma coalhada com bolhas de ar, que logo foram tomadas por um fungo azulado!
+                <img src="images/pagina5_1.jpg" class="foto">
+            </div>
+
+            <div class="cima">
+
+                <img src="images/pagina5_2.jpg" class="foto">
+                <h2 class="texto-card">
+                    Oque se conta é que um queijeiro estava tão apaixonado por uma gorgonzolense que, ao correr atrás
+                    dela, se esqueceu de fazer o queijo strachino. Após deixar uma quantidade de leite azedar, ele
+                    misturou com outra porção de leite fresco ainda quente, para que seu patrão não percebesse.
+                    A mistura dos leites em diferentes temperaturas e aspectos formou uma coalhada com bolhas de ar, que
+                    logo foram tomadas por um fungo azulado!
+
+
+                </h2>
+            </div>
             <br>
-            Esse mofo se chama “penicilium roqueforti”, que está presente também no queijo Roquefort. E assim criou-se essa delícia de sabor marcante. Hoje, o gorgonzola é o 3º queijo mais consumido na Itália! Atrás do parmigiano e do grana padano.
+            <h2 class="texto-card_2">
+                Esse mofo se chama “penicilium roqueforti”, que está presente também no queijo Roquefort. E assim
+                criou-se essa delícia de sabor marcante. Hoje, o gorgonzola é o 3º queijo mais consumido na Itália!
+                Atrás do parmigiano e do grana padano.
             </h2>
-            
-            <img src="images/pagina5_2.jpg" class="foto">
-            
 
         </div>
 
