@@ -29,12 +29,12 @@
                     <ul class="navbar-nav">
 
                         <li class="nav-item">
-                            <a class="nav-link" href="pagina3.php">
+                            <a class="nav-link" href="pagina6.php">
                                 < Anterior</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="pagina5.php">Próximo></a>
+                            <a class="nav-link disabled" href="#">Próximo></a>
                         </li>
 
                     </ul>
@@ -48,21 +48,31 @@
 
         <div class="bloco">
             <h2 class="texto-card">
-                <p class="titulo">Queijo Gouda</p>
-                O gouda é um dos queijos mais consumidos no mundo. As primeiras menções a ele remontam a 1184, o que faz desse queijo um dos mais antigos da história.
-            </h2>
+                <p class="titulo">Queijo Parmesão</p>
+                O queijo parmesão é de origem italiana e, devido a sua enorme popularidade, ficou conhecido também como “o rei dos queijos”.
+                A origem do queijo parmesão data do século 12. Quando o século virou e chegou aos anos 1200, o parmigiano reggiano já era bastante reconhecido na Itália. 
 
-            <img src="images/pagina4_1.jpg" class="foto">
+                Essa é a versão original do produto, sendo produzido na região de Emília-Romanha. Por ter tido alta popularidade, é chamado de “o rei dos queijos”, sendo usado em várias receitas, como massas e risotos.
+
+
+             </h2>
+
+            <img src="images/pagina6_1.jpg" class="foto">
 
             <h2 class="texto-card">
-            Seu nome deve-se à cidade de mesmo nome, onde, desde a Idade Média, já era comercializado. Há também fontes que sugerem que o termo gouda se refira a uma forma específica de produção de queijos e não a um tipo particular, considerando seu sabor, que varia com a idade.
+            Todos os diferentes tipos de parmesão derivam dessa versão inicial. No entanto, o nome parmigiano reggiano só pode ser usado para o queijo produzido nessa área do norte da Itália, já que recebeu o certificado de Denominação de Origem Protegida. 
+            Por isso, a versão original sempre tem a indicação na embalagem. Todas as opções com designação de queijo parmesão foram produzidas semelhantemente, mas em outros locais do mundo. 
+            <br>
+            O queijo parmesão original é feito com leite de vaca cru parcialmente desnatado, normalmente com o produto das vacas Holstein-Friesian, sal e coalhada. Esse é o caso do parmigiano reggiano, sendo que não são adicionados aditivos nem conservantes. Já os outros tipos podem ser fabricados com o leite integral ou pasteurizado
             </h2>
             
-            <img src="images/pagina4_2.jpg" class="foto">
-            
+            <img src="images/pagina6_2.png" class="foto">
+
             <h2 class="texto-card">
-            O jovem e menos maturado (e produzido na fábrica) tem um sabor levemente adocicado com toque de nozes e bastante suave. Por sua vez, o gouda mais maturado desperta outras sensações, pois o tempo lhe imprime tons mais frutados e uma leve doçura no final, quase um sabor de caramelo quando maturado por mais de dois anos.
+            As características do queijo parmesão são massa compacta, dura e consistente. A textura é arenosa, sendo quebradiça ao cortar. A coloração é amarelada e sua crosta é dura, grossa, lisa e seca, de cor amarelo-palha. O sabor é levemente adocicado combinado a certa picância e a notas de castanhas. 
             </h2>
+            
+
         </div>
 
     </div>

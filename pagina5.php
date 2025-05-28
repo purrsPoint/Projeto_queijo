@@ -29,12 +29,12 @@
                     <ul class="navbar-nav">
 
                         <li class="nav-item">
-                            <a class="nav-link" href="pagina3.php">
+                            <a class="nav-link" href="pagina4.php">
                                 < Anterior</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="pagina5.php">Próximo></a>
+                            <a class="nav-link" href="pagina6.php">Próximo></a>
                         </li>
 
                     </ul>
@@ -48,21 +48,23 @@
 
         <div class="bloco">
             <h2 class="texto-card">
-                <p class="titulo">Queijo Gouda</p>
-                O gouda é um dos queijos mais consumidos no mundo. As primeiras menções a ele remontam a 1184, o que faz desse queijo um dos mais antigos da história.
-            </h2>
+                <p class="titulo">Queijo Gorgonzola</p>
+                O queijo gorgonzola nasceu na cidade de Gorgonzola, na Itália. Sobre como surgiu exatamente, não existem documentos. Aproximadamente data o século 10.<br>
+                
+             </h2>
 
-            <img src="images/pagina4_1.jpg" class="foto">
+            <img src="images/pagina5_1.jpg" class="foto">
 
             <h2 class="texto-card">
-            Seu nome deve-se à cidade de mesmo nome, onde, desde a Idade Média, já era comercializado. Há também fontes que sugerem que o termo gouda se refira a uma forma específica de produção de queijos e não a um tipo particular, considerando seu sabor, que varia com a idade.
+            Oque se conta é que um queijeiro estava tão apaixonado por uma gorgonzolense que, ao correr atrás dela, se esqueceu de fazer o queijo strachino. Após deixar uma quantidade de leite azedar, ele misturou com outra porção de leite fresco ainda quente, para que seu patrão não percebesse.
+            A mistura dos leites em diferentes temperaturas e aspectos formou uma coalhada com bolhas de ar, que logo foram tomadas por um fungo azulado!
+            <br>
+            Esse mofo se chama “penicilium roqueforti”, que está presente também no queijo Roquefort. E assim criou-se essa delícia de sabor marcante. Hoje, o gorgonzola é o 3º queijo mais consumido na Itália! Atrás do parmigiano e do grana padano.
             </h2>
             
-            <img src="images/pagina4_2.jpg" class="foto">
+            <img src="images/pagina5_2.jpg" class="foto">
             
-            <h2 class="texto-card">
-            O jovem e menos maturado (e produzido na fábrica) tem um sabor levemente adocicado com toque de nozes e bastante suave. Por sua vez, o gouda mais maturado desperta outras sensações, pois o tempo lhe imprime tons mais frutados e uma leve doçura no final, quase um sabor de caramelo quando maturado por mais de dois anos.
-            </h2>
+
         </div>
 
     </div>
