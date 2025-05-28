@@ -47,8 +47,10 @@
     <div class="conteudo">
 
         <div class="bloco">
+     
             <h2 class="texto-card">
                 <p class="titulo">Queijo cheddar</p>
+                <div class="cima">
                 Bem, diferente do que se é popular o queijo cheddar laranja vendido em super mercados e nas
                 hamburguerias não
                 é o queijo cheddar de verdade, É discutível até se pode ser chamado de queijo, pois é uma junção, uma
@@ -57,6 +59,8 @@
             </h2>
 
             <img src="images/pagina3_1.png" class="foto">
+        </div>
+
 
             <h2 class="texto-card">
             O verdadeiro cheddar é o da Inglaterra, o inglês, e não é alaranjado dessa forma, ou obrigatoriamente, e tem um gosto totalmente diferente. Criado por Joseph Harding a 
@@ -75,8 +79,7 @@
             O queijo com coloração mais forte tem gosto mais acentuado. Independente da tonalidade que esteja, sua massa é dura, mas curiosamente o queijo derrete com facilidade na boca.
             O gosto do queijo cheddar é suave e pode ter notas aromáticas de maçã, nozes e café torrado.
             </h2>
-        </div>
-
+        
     </div>
     <footer class="rodape">
         <h6 class="texto-rodape">

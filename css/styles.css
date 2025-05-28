@@ -44,7 +44,6 @@
 }
 .bloco{
     background-color: #faf9f6;
-    display: flex;
     border-radius: 20px;
     width: 75%;
     border: #fd8e0c solid 2px;
@@ -53,6 +52,9 @@
     margin-right: auto;
     
     padding: 10px;
+}
+.cima{
+    display: flex;
 }
 .texto-card{
     width: 30%;
@@ -78,11 +80,20 @@
     padding-top: 20px;
     padding-bottom: 20px;
 }
-
+.texto-card_2{
+    width: 90%;
+    margin:auto;
+    text-align: justify;
+    font-family: Raleway;
+    font-size: xx-large;
+}
 
 @media screen and (max-width: 1420px) {
  .bloco{
- display: grid;
+ display: grid!important;
+}
+.cima{
+    display: grid ;
 }
 .texto-card{
     width: 100%;

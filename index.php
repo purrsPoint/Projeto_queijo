@@ -46,7 +46,7 @@
 
     <div class="conteudo">
 
-        <div class="bloco">
+        <div class="bloco cima">
         <h2 class="texto-card"><p class="titulo"> Wiki n' Cheese</p> um espaço dedicado aos amantes de queijo! Aqui você vai descobrir os mais diversos tipos de queijos, suas origens, características e curiosidades que fazem de cada um uma experiência única.
         </h2>
         

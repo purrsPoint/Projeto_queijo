@@ -47,13 +47,14 @@
     <div class="conteudo">
 
         <div class="bloco">
+            <div class="cima">  
         <h2 class="texto-card"><p class="titulo">Mas como surgiu o queijo?</p>
         A história do queijo é antiga e incerta, mas acredita-se que tenha surgido há cerca de 5000 anos, provavelmente na Ásia Central e no Oriente Médio. A descoberta foi feita acidentalmente, quando o leite era guardado em bolsas de couro de estômago de animais para transporte, e a enzima natural do estômago causava a coagulação do leite, formando a coalhada. 
          </h2>
         
             <img src="images/pagina2_1.jpg" class="foto">
-
-        <h2 class="texto-card">
+            </div>
+        <h2 class="texto-card_2">
         Ao longo do tempo, diferentes regiões do mundo desenvolveram suas próprias técnicas de produção de queijo, resultando em uma grande variedade de tipos e sabores. Os queijos eram frequentemente produzidos como uma maneira de preservar o leite por períodos mais longos, já que o queijo maturado tem uma durabilidade muito maior que o leite in natura.
         </h2>    
 
