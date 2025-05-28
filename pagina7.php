@@ -48,28 +48,23 @@
 
         <div class="bloco">
             <h2 class="texto-card">
-                <p class="titulo">Queijo Parmesão</p>
-                O queijo parmesão é de origem italiana e, devido a sua enorme popularidade, ficou conhecido também como “o rei dos queijos”.
-                A origem do queijo parmesão data do século 12. Quando o século virou e chegou aos anos 1200, o parmigiano reggiano já era bastante reconhecido na Itália. 
-
-                Essa é a versão original do produto, sendo produzido na região de Emília-Romanha. Por ter tido alta popularidade, é chamado de “o rei dos queijos”, sendo usado em várias receitas, como massas e risotos.
-
+                <p class="titulo">Queijo Gruyère</p>
+                Nomeado em homenagem à cidade de Gruyères , na Suíça, o Gruyère faz parte de uma família de "queijos montanhêses" produzidos nos Alpes.
 
              </h2>
 
-            <img src="images/pagina6_1.jpg" class="foto">
+            <img src="images/pagina7_1.png" class="foto">
 
             <h2 class="texto-card">
-            Todos os diferentes tipos de parmesão derivam dessa versão inicial. No entanto, o nome parmigiano reggiano só pode ser usado para o queijo produzido nessa área do norte da Itália, já que recebeu o certificado de Denominação de Origem Protegida. 
-            Por isso, a versão original sempre tem a indicação na embalagem. Todas as opções com designação de queijo parmesão foram produzidas semelhantemente, mas em outros locais do mundo. 
+            Produtores de ambos os lados da fronteira entre a França e a Suíça rotulavam seus queijos como "Gruyère" até 1986, quando o "Gruyère de Comté" francês passou a ser simplesmente Comté. (Até hoje, muitos produtores suíços rotulam seus queijos como "Le Gruyère" — o Gruyère.) O queijo suíço recebeu o status de Denominação de Origem Protegida (AOP) em 2010.
             <br>
-            O queijo parmesão original é feito com leite de vaca cru parcialmente desnatado, normalmente com o produto das vacas Holstein-Friesian, sal e coalhada. Esse é o caso do parmigiano reggiano, sendo que não são adicionados aditivos nem conservantes. Já os outros tipos podem ser fabricados com o leite integral ou pasteurizado
+            
             </h2>
             
-            <img src="images/pagina6_2.png" class="foto">
+            <img src="images/pagina7_2.png" class="foto">
 
             <h2 class="texto-card">
-            As características do queijo parmesão são massa compacta, dura e consistente. A textura é arenosa, sendo quebradiça ao cortar. A coloração é amarelada e sua crosta é dura, grossa, lisa e seca, de cor amarelo-palha. O sabor é levemente adocicado combinado a certa picância e a notas de castanhas. 
+            O queijo Gruyère tem um sabor levemente amendoado e uma textura cremosa. Como muitos queijos semi-firmes, o Gruyère tem um sabor mais suave e herbáceo quando jovem e um sabor mais acentuado após a maturação. O sabor do queijo Gruyère jovem lembra o capim que as vacas comem. Além do sabor suave, o queijo mais jovem derrete mais facilmente, tornando-o uma escolha melhor para cozinhar. Use o queijo mais velho e duro para tábuas de queijos.
             </h2>
             
 

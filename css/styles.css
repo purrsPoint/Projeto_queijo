@@ -14,12 +14,6 @@
     border-bottom: #fd8e0c solid 1px;
 
 }
-.nav-item{
-    font-family: Poppins;
-    font-size:x-large;
-    color: #ad5033;
-    
-}
 .rodape{
     font-family: Poppins;
     font-size:small;
@@ -35,8 +29,13 @@
     text-align: center;
     padding-bottom: 20px;
 }
+
+.nav-item{
+    font-family: Poppins;
+    font-size:x-large;  
+}
 .nav-item:hover{
-    color: black;
+    color: black!important;
 }
 .conteudo{
     background-color: #eae2b765;
