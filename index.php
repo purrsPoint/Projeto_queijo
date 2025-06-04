@@ -29,7 +29,7 @@
                     <ul class="navbar-nav">
 
                         <li class="nav-item">
-                            <a class="nav-link disabled" href="#">
+                            <a class="nav-link" href="#">
                                 < Anterior</a>
                         </li>
 
